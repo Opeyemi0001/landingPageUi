@@ -46,6 +46,6 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/landing-page-test.git
-   cd landing-page-test
+   git clone https://github.com/Opeyemi0001/landingPageUi.git
+   cd landingPageUi
    ```
